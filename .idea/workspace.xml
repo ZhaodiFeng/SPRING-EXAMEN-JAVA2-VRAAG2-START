@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14d2d4ce-530e-44ea-803c-b61e851e2e24" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ap/spring/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ap/spring/Exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPRING-EXAMEN-JAVA2-VRAAG2-START.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SPRING-EXAMEN-JAVA2-VRAAG2-START.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +18,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="129">
               <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
             </state>
           </provider>
@@ -26,7 +27,7 @@
       <file leaf-file-name="Exam.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/Exam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
+            <state relative-caret-position="57">
               <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
               <folding>
                 <element signature="e#330#331#0" expanded="true" />
@@ -36,6 +37,15 @@
                 <element signature="e#780#781#0" expanded="true" />
                 <element signature="e#801#802#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/ap/spring/test/SpringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-56">
+              <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -110,6 +120,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPRING-EXAMEN-JAVA2-VRAAG2-START" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPRING-EXAMEN-JAVA2-VRAAG2-START" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPRING-EXAMEN-JAVA2-VRAAG2-START" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPRING-EXAMEN-JAVA2-VRAAG2-START" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPRING-EXAMEN-JAVA2-VRAAG2-START" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPRING-EXAMEN-JAVA2-VRAAG2-START" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,30 +281,35 @@
       <option name="presentableId" value="Default" />
       <updated>1524049392102</updated>
       <workItem from="1524049398717" duration="162000" />
-      <workItem from="1524055855901" duration="1789000" />
+      <workItem from="1524055855901" duration="1971000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SpringTest - 2018.04.18 at 15h 21m 24s.xml">
+      <configuration name="SpringTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1951000" />
+    <option name="totallyTimeSpent" value="2133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32991454" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.04786325" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.32991454" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" visible="true" weight="0.27843803" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.6611195" side_tool="true" visible="true" weight="0.4974533" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.12783661" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32991454" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4969743" weight="0.054700855" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.33888048" weight="0.5110357" />
       <window_info anchor="bottom" id="Spring" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4991453" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.4974533" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83054006" visible="true" weight="0.34039333" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83054006" visible="true" weight="0.34039333" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962063" />
@@ -282,7 +318,6 @@
       <window_info id="Favorites" order="7" sideWeight="0.16945997" side_tool="true" weight="0.3345979" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.73504275" />
       <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.04786325" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.50598294" />
       <window_info id="Nl-Palette" order="2" />
@@ -311,13 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/ExamApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -325,9 +353,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/ap/spring/test/SpringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/Exam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
+        <state relative-caret-position="57">
           <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
           <folding>
             <element signature="e#330#331#0" expanded="true" />
@@ -346,10 +388,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>SPRING-EXAMEN-JAVA2-VRAAG2-START:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -357,7 +401,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -398,6 +442,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -417,6 +462,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.jayway.jsonpath:json-path:2.2.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

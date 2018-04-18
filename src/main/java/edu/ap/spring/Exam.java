@@ -2,6 +2,8 @@ package edu.ap.spring;
 
 import java.awt.Point;
 import java.util.*;
+import java.util.stream.Stream;
+
 import org.springframework.stereotype.Component;
 
 @Component
@@ -11,14 +13,15 @@ public class Exam {
 	// priemgetallen terug te geven
 	// 2 punten
 	public int[] getPrimes(int[] numbers) {
-		
+		Arrays.stream(numbers).filter(va)
 	}
 	
 	// Maak gebruik van lambdas en streams alle lowercase characters
 	// te tellen in de gegeven string
 	// 1 punt
 	public int countLowercaseCharacters(String string) {
-        
+		return (int) string.chars()
+				.filter(c -> c>='a'&&c<='z').count();
 	}
 	
 	// Maak gebruik van lambdas en streams om de som van alle
